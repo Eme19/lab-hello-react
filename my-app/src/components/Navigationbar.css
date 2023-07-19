@@ -1,0 +1,60 @@
+nav{
+    background-color: rgb(38, 38, 39);
+   margin-top: 2rem;
+   margin-left: 4rem;
+   margin-right: 4rem;
+  
+}
+
+nav p{
+    color: rgb(188, 184, 184);
+    inline-size: 15rem;
+    margin-top: -3rem;
+    text-align: start;
+    padding-left:  4.4rem;
+       
+}
+
+
+img{
+    width: 3rem;
+    height: auto;
+}
+.nav-flex{
+    display:flex ;
+    justify-content: space-between;
+    border-style:hidden;
+    padding-top: 2rem;
+    padding-left:  4rem;
+    padding-right: 4rem;
+
+}
+
+h1{
+    color: white;
+    font-size: 5rem;
+    inline-size: 30rem;
+    line-height: 4.7rem;
+    text-align: start;
+    padding-top: 3rem;
+    padding-left: 4.2rem; 
+    font-family: sans-serif;
+
+}
+
+nav >  div{
+
+    padding-bottom: 10rem;
+}
+
+button{
+    display: flex;
+    align-items: flex-start;
+    margin-left: 4.4rem;
+    margin-top: 4rem;
+  padding: 1.3rem;
+   border-style: none;
+   font-size: 1.5rem;
+   font-weight: bold;
+
+}

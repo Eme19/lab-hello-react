@@ -1,0 +1,35 @@
+footer{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 6rem;
+    width: 85%;
+    margin-left: 6rem;
+  
+}
+.footer-paragraph-style{
+    display: flex;
+    align-items: flex-start;
+    color: rgb(52, 47, 47);
+    margin-top: -0.5rem;
+    font-size: 1rem;
+   inline-size: 10rem;
+   text-align: start;
+   margin-left: 1.8rem;
+   padding-bottom: 5rem;
+
+}
+
+h2{
+font-size: 1.5rem;
+}
+
+footer > div img{
+    
+   width:80%;
+   height: auto;
+}
+
+.footer-paragraph{
+    padding-right: 5.2rem;
+    
+}
